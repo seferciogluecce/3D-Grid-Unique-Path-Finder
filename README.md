@@ -1,7 +1,7 @@
 # GridPathFinder
- Finds all the unique paths in grid representation on 3D and show the paths with line renderer.
+Finds all the unique paths in grid representation on 3D and show the paths with line renderer. The grid is always calculated from the upmost left corner to downmost right corner.
 
-As this project created as am exercise. There are lots of areas open to improvement.
+As this project created as an exercise. There are lots of areas open to improvement.
 
 [Source](https://www.geeksforgeeks.org/find-paths-given-source-destination/) for path finding algorihm and explanations
 
